@@ -1,0 +1,21 @@
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~
+$ pwd
+/c/Users/Ranida Methsilu
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~
+$ cd desktop
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~/desktop
+$ mkdir web
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~/desktop
+$ touch index.html
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~/desktop
+$ touch main.js style.css
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~/desktop
+$ mkdir styles
+
+Ranida Methsilu@DESKTOP-332HMQD MINGW64 ~/desktop
+$ mv style.css styles
